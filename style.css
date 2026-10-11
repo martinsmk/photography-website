@@ -230,3 +230,13 @@ nav ul li a:hover {
   margin-bottom: 15px;
   font-size: 28px;
 }
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 30px;
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+}
+
