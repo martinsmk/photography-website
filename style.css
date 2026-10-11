@@ -16,3 +16,13 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+.logo span {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.logo strong {
+    color: #e63946;
+}
+
