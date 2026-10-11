@@ -270,3 +270,10 @@ footer {
   padding: 25px;
   font-size: 15px;
 }
+
+@media only screen and (max-width: 900px) {
+    #container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
