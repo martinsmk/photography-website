@@ -62,3 +62,10 @@ nav ul li a:hover {
     margin-bottom: 20px;
 }
 
+.intro {
+    max-width: 700px;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    color: #dddddd;
+}
+
