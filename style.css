@@ -245,3 +245,28 @@ label {
   margin-bottom: 6px;
   font-weight: bold;
 }
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #e63946;
+  outline: none;
+}
+
+footer {
+  background-color: #1a1a1a;
+  color: #aaaaaa;
+  text-align: center;
+  padding: 25px;
+  font-size: 15px;
+}
