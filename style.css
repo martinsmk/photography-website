@@ -15,6 +15,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
 }
 
 .logo span {
@@ -45,3 +49,6 @@ nav ul li a {
 nav ul li a:hover {
     color: #e63946;
 }
+
+.hero {
+   
